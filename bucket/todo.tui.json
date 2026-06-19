@@ -1,10 +1,10 @@
 {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A terminal-based todo.txt manager with a TUI",
     "homepage": "https://github.com/nikirack/todo.tui",
     "license": "GPL-3.0",
-    "url": "https://github.com/nikirack/todo.tui/releases/download/v1.0.0/todo.tui-windows-x64.exe",
-    "hash": "sha256:1f038b7dd9e73415f908c37ef482450bd2f36039ee91d034a242ddee72048e93",
+    "url": "https://github.com/nikirack/todo.tui/releases/download/v1.0.1/todo.tui-windows-x64.exe",
+    "hash": "a058a6bb6b3818b9661de4d8404275402b125e07ab80d57155294ef7d8b0b873",
     "bin": [
         [
             "todo.tui-windows-x64.exe",
